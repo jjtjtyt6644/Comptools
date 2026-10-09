@@ -1,5 +1,5 @@
 {
-  "latest": "1.9.0",
+  "latest": "1.9.1",
   "download_url": "https://github.com/jjtjtyt6644/Comptools/releases/latest",
-  "changelog": "Background visibility slider (blurred to clear), fixed Open on Startup, Gaming Mode, Clear Cache and other settings, bigger Library text, faster update notices and smoother installs"
+  "changelog": "Interactive walkthrough (click the highlighted buttons to follow along) and updated Terms of Service covering data encryption"
 }
