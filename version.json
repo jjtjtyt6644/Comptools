@@ -1,5 +1,5 @@
 {
-  "latest": "1.8.0",
+  "latest": "1.9.0",
   "download_url": "https://github.com/jjtjtyt6644/Comptools/releases/latest",
-  "changelog": "Smarter Software Library: detects installed apps (Open instead of Install), one-click and bulk updates, uninstall/reinstall/open file location, app details panel and refined UI"
+  "changelog": "Background visibility slider (blurred to clear), fixed Open on Startup, Gaming Mode, Clear Cache and other settings, bigger Library text, faster update notices and smoother installs"
 }
