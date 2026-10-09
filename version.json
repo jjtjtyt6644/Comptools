@@ -1,5 +1,5 @@
 {
-  "latest": "1.7.1",
+  "latest": "1.8.0",
   "download_url": "https://github.com/jjtjtyt6644/Comptools/releases/latest",
-  "changelog": "Guided first-run walkthrough with highlights and arrows, Rerun Walkthrough in Settings, walkthrough completion synced to your account"
+  "changelog": "Smarter Software Library: detects installed apps (Open instead of Install), one-click and bulk updates, uninstall/reinstall/open file location, app details panel and refined UI"
 }
